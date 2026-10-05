@@ -23,7 +23,7 @@ The prototype implements four LLM agents (J2 intelligence, J3 operations/COA, J4
 | Gemma 2 9B (3) | 29 % | 29 % | 86 % | 86 % |
 | Mistral 7B (3) | 29 % | 29 % | 86 % | 86 % |
 
-Baseline and NoVeto cannot veto by construction, so their 29 % (4 of 14 scenarios labelled "no veto") is fixed by the label distribution. A single legal-agent call on the raw scenario (JAG-only) agrees with the labels at least as often as the full ensemble, so these data support the structural veto rule but do not show a benefit of the staff agents. Full tables, intervals, paired tests, latency, threshold sweep, and the label-sensitivity analysis are in `results/v2/analysis_all_final.md`, `analysis_summary.json`, and `label_sensitivity.json`. Latency is 15–23 s per scenario for the four-call configurations and follows the number of sequential LLM calls.
+Baseline and NoVeto cannot veto by construction, so their 29 % (4 of 14 scenarios labelled "no veto") is fixed by the label distribution. A single legal-agent call on the raw scenario (JAG-only) agrees with the labels at least as often as the full ensemble, so these data support the structural veto rule but do not show a benefit of the staff agents. Full tables, intervals, paired tests, latency, threshold sweep, and the label-sensitivity analysis are in `docs/extended_results.md` and in `results/v2/analysis_all_final.md`, `analysis_summary.json`, and `label_sensitivity.json`. Latency is 15–23 s per scenario for the four-call configurations and follows the number of sequential LLM calls.
 
 ## Layout
 
@@ -37,7 +37,8 @@ experiments/   run_experiments.py (original run); run_experiments_v2.py (extende
                generate_figures.py; run_all_v2.sh, run_remaining_v2.sh (drivers; zsh)
 results/original/  original single run and the October 2026 reproduction run
 results/v2/    raw JSON outputs of every run (prompts, agent outputs, veto decisions, timings), logs, analyses
-figures/       vector figures used in the manuscript
+figures/       vector figures used in the manuscript (including the latency and threshold-sweep figures)
+docs/          supplementary documentation: full prompts, the complete S5 record, scenario texts and labels, extended results tables
 ```
 
 ## Reproducing
