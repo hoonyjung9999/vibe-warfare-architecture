@@ -1,0 +1,10 @@
+[driver] start Mon Oct  5 14:10:27 KST 2026
+[driver] llama T0 done Mon Oct  5 15:29:48 KST 2026
+[driver] pulled qwen2.5:7b Mon Oct  5 15:37:24 KST 2026
+[driver] pulled gemma2:9b Mon Oct  5 15:46:02 KST 2026
+[driver] pulled mistral:7b Mon Oct  5 15:52:41 KST 2026
+[driver] llama T0.7 done Mon Oct  5 16:19:15 KST 2026
+[driver] qwen2.5:7b done Mon Oct  5 16:48:42 KST 2026
+[driver] gemma2:9b done Mon Oct  5 17:33:51 KST 2026
+[driver] mistral:7b done Mon Oct  5 17:34:38 KST 2026
+[driver] ALL DONE Mon Oct  5 17:34:38 KST 2026

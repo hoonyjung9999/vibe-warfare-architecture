@@ -1,0 +1,242 @@
+{
+ "llama31_8b_T0": {
+  "unamb": {
+   "baseline": {
+    "agree": 2,
+    "n": 10,
+    "pct": 20,
+    "ci": [
+     0.0,
+     50.0
+    ]
+   },
+   "noveto": {
+    "agree": 2,
+    "n": 10,
+    "pct": 20,
+    "ci": [
+     0.0,
+     50.0
+    ]
+   },
+   "full": {
+    "agree": 10,
+    "n": 10,
+    "pct": 100,
+    "ci": [
+     100.0,
+     100.0
+    ]
+   },
+   "legal_only": {
+    "agree": 10,
+    "n": 10,
+    "pct": 100,
+    "ci": [
+     100.0,
+     100.0
+    ]
+   },
+   "full-noveto_pp": 80,
+   "full-noveto_ci": [
+    50.0,
+    100.0
+   ],
+   "full-legal_pp": 0
+  },
+  "paired_range": {
+   "full-noveto_pp": [
+    28.6,
+    85.7
+   ],
+   "full-legal_pp": [
+    -7.1,
+    7.1
+   ],
+   "full_agree_pct": [
+    71.4,
+    100.0
+   ]
+  }
+ },
+ "qwen25_7b_T0": {
+  "unamb": {
+   "baseline": {
+    "agree": 2,
+    "n": 10,
+    "pct": 20,
+    "ci": [
+     0.0,
+     50.0
+    ]
+   },
+   "noveto": {
+    "agree": 2,
+    "n": 10,
+    "pct": 20,
+    "ci": [
+     0.0,
+     50.0
+    ]
+   },
+   "full": {
+    "agree": 9,
+    "n": 10,
+    "pct": 90,
+    "ci": [
+     70.0,
+     100.0
+    ]
+   },
+   "legal_only": {
+    "agree": 9,
+    "n": 10,
+    "pct": 90,
+    "ci": [
+     70.0,
+     100.0
+    ]
+   },
+   "full-noveto_pp": 70,
+   "full-noveto_ci": [
+    40.0,
+    100.0
+   ],
+   "full-legal_pp": 0
+  },
+  "paired_range": {
+   "full-noveto_pp": [
+    35.7,
+    64.3
+   ],
+   "full-legal_pp": [
+    -7.1,
+    7.1
+   ],
+   "full_agree_pct": [
+    64.3,
+    92.9
+   ]
+  }
+ },
+ "gemma2_9b_T0": {
+  "unamb": {
+   "baseline": {
+    "agree": 2,
+    "n": 10,
+    "pct": 20,
+    "ci": [
+     0.0,
+     50.0
+    ]
+   },
+   "noveto": {
+    "agree": 2,
+    "n": 10,
+    "pct": 20,
+    "ci": [
+     0.0,
+     50.0
+    ]
+   },
+   "full": {
+    "agree": 10,
+    "n": 10,
+    "pct": 100,
+    "ci": [
+     100.0,
+     100.0
+    ]
+   },
+   "legal_only": {
+    "agree": 10,
+    "n": 10,
+    "pct": 100,
+    "ci": [
+     100.0,
+     100.0
+    ]
+   },
+   "full-noveto_pp": 80,
+   "full-noveto_ci": [
+    50.0,
+    100.0
+   ],
+   "full-legal_pp": 0
+  },
+  "paired_range": {
+   "full-noveto_pp": [
+    28.6,
+    85.7
+   ],
+   "full-legal_pp": [
+    0.0,
+    0.0
+   ],
+   "full_agree_pct": [
+    71.4,
+    100.0
+   ]
+  }
+ },
+ "mistral_7b_T0": {
+  "unamb": {
+   "baseline": {
+    "agree": 2,
+    "n": 10,
+    "pct": 20,
+    "ci": [
+     0.0,
+     50.0
+    ]
+   },
+   "noveto": {
+    "agree": 2,
+    "n": 10,
+    "pct": 20,
+    "ci": [
+     0.0,
+     50.0
+    ]
+   },
+   "full": {
+    "agree": 10,
+    "n": 10,
+    "pct": 100,
+    "ci": [
+     100.0,
+     100.0
+    ]
+   },
+   "legal_only": {
+    "agree": 9,
+    "n": 10,
+    "pct": 90,
+    "ci": [
+     70.0,
+     100.0
+    ]
+   },
+   "full-noveto_pp": 80,
+   "full-noveto_ci": [
+    50.0,
+    100.0
+   ],
+   "full-legal_pp": 10
+  },
+  "paired_range": {
+   "full-noveto_pp": [
+    28.6,
+    85.7
+   ],
+   "full-legal_pp": [
+    0.0,
+    14.3
+   ],
+   "full_agree_pct": [
+    71.4,
+    100.0
+   ]
+  }
+ }
+}

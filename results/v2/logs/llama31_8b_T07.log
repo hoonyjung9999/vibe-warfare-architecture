@@ -1,0 +1,76 @@
+[llama31_8b_T07] warm-up 5.0s
+[llama31_8b_T07] r1 S1 full=V/18.22s legal_only=V/6.15s
+[llama31_8b_T07] r1 S2 full=V/18.03s legal_only=V/6.03s
+[llama31_8b_T07] r1 S3 full=-/14.5s legal_only=-/3.62s
+[llama31_8b_T07] r1 S4 full=V/16.51s legal_only=V/3.92s
+[llama31_8b_T07] r1 S5 full=V/18.54s legal_only=V/4.78s
+[llama31_8b_T07] r1 S6 full=V/13.07s legal_only=V/5.27s
+[llama31_8b_T07] r1 S7 full=-/16.38s legal_only=-/3.57s
+[llama31_8b_T07] r1 S8 full=V/17.69s legal_only=V/5.41s
+[llama31_8b_T07] r1 S9 full=V/17.75s legal_only=V/5.31s
+[llama31_8b_T07] r1 S10 full=V/23.13s legal_only=V/7.18s
+[llama31_8b_T07] r1 S11 full=V/18.14s legal_only=V/5.34s
+[llama31_8b_T07] r1 S12 full=V/16.42s legal_only=V/6.33s
+[llama31_8b_T07] r1 S13 full=V/16.23s legal_only=-/4.27s
+[llama31_8b_T07] r1 S14 full=V/18.93s legal_only=V/14.83s
+[llama31_8b_T07] repeat 1 saved results/v2/llama31_8b_T07_r1.json correct={'full': 12, 'legal_only': 13}
+[llama31_8b_T07] r2 S1 full=V/16.77s legal_only=V/5.29s
+[llama31_8b_T07] r2 S2 full=V/19.26s legal_only=V/5.13s
+[llama31_8b_T07] r2 S3 full=-/15.44s legal_only=-/3.94s
+[llama31_8b_T07] r2 S4 full=V/19.4s legal_only=V/5.59s
+[llama31_8b_T07] r2 S5 full=V/17.44s legal_only=V/5.54s
+[llama31_8b_T07] r2 S6 full=V/11.16s legal_only=V/6.08s
+[llama31_8b_T07] r2 S7 full=-/15.21s legal_only=-/3.76s
+[llama31_8b_T07] r2 S8 full=V/18.17s legal_only=V/5.5s
+[llama31_8b_T07] r2 S9 full=V/18.23s legal_only=V/5.4s
+[llama31_8b_T07] r2 S10 full=V/17.72s legal_only=V/5.19s
+[llama31_8b_T07] r2 S11 full=V/17.95s legal_only=V/4.7s
+[llama31_8b_T07] r2 S12 full=V/15.37s legal_only=V/4.74s
+[llama31_8b_T07] r2 S13 full=V/16.54s legal_only=-/4.45s
+[llama31_8b_T07] r2 S14 full=V/27.11s legal_only=V/5.49s
+[llama31_8b_T07] repeat 2 saved results/v2/llama31_8b_T07_r2.json correct={'full': 12, 'legal_only': 13}
+[llama31_8b_T07] r3 S1 full=V/19.07s legal_only=V/5.69s
+[llama31_8b_T07] r3 S2 full=V/16.18s legal_only=V/5.24s
+[llama31_8b_T07] r3 S3 full=-/15.88s legal_only=-/4.14s
+[llama31_8b_T07] r3 S4 full=V/18.24s legal_only=V/4.74s
+[llama31_8b_T07] r3 S5 full=V/18.36s legal_only=V/5.23s
+[llama31_8b_T07] r3 S6 full=V/11.98s legal_only=V/5.21s
+[llama31_8b_T07] r3 S7 full=-/17.09s legal_only=-/4.36s
+[llama31_8b_T07] r3 S8 full=V/17.06s legal_only=V/5.08s
+[llama31_8b_T07] r3 S9 full=V/17.45s legal_only=V/5.74s
+[llama31_8b_T07] r3 S10 full=V/20.58s legal_only=V/5.17s
+[llama31_8b_T07] r3 S11 full=V/18.47s legal_only=V/5.41s
+[llama31_8b_T07] r3 S12 full=V/18.98s legal_only=V/4.24s
+[llama31_8b_T07] r3 S13 full=V/18.77s legal_only=-/3.86s
+[llama31_8b_T07] r3 S14 full=V/17.89s legal_only=V/6.78s
+[llama31_8b_T07] repeat 3 saved results/v2/llama31_8b_T07_r3.json correct={'full': 12, 'legal_only': 13}
+[llama31_8b_T07] r4 S1 full=V/18.26s legal_only=V/4.36s
+[llama31_8b_T07] r4 S2 full=V/19.37s legal_only=V/6.11s
+[llama31_8b_T07] r4 S3 full=-/15.03s legal_only=-/4.27s
+[llama31_8b_T07] r4 S4 full=V/18.99s legal_only=V/5.87s
+[llama31_8b_T07] r4 S5 full=V/18.43s legal_only=V/5.41s
+[llama31_8b_T07] r4 S6 full=V/10.35s legal_only=V/5.04s
+[llama31_8b_T07] r4 S7 full=-/16.03s legal_only=-/3.64s
+[llama31_8b_T07] r4 S8 full=V/18.04s legal_only=V/5.18s
+[llama31_8b_T07] r4 S9 full=V/17.37s legal_only=V/6.77s
+[llama31_8b_T07] r4 S10 full=V/19.26s legal_only=V/4.99s
+[llama31_8b_T07] r4 S11 full=V/13.9s legal_only=V/4.52s
+[llama31_8b_T07] r4 S12 full=V/15.44s legal_only=V/4.41s
+[llama31_8b_T07] r4 S13 full=V/22.74s legal_only=V/4.78s
+[llama31_8b_T07] r4 S14 full=V/18.06s legal_only=V/11.6s
+[llama31_8b_T07] repeat 4 saved results/v2/llama31_8b_T07_r4.json correct={'full': 12, 'legal_only': 12}
+[llama31_8b_T07] r5 S1 full=V/19.36s legal_only=V/4.8s
+[llama31_8b_T07] r5 S2 full=V/17.72s legal_only=V/5.95s
+[llama31_8b_T07] r5 S3 full=-/15.85s legal_only=-/4.08s
+[llama31_8b_T07] r5 S4 full=V/16.41s legal_only=V/5.62s
+[llama31_8b_T07] r5 S5 full=V/15.2s legal_only=V/6.48s
+[llama31_8b_T07] r5 S6 full=V/15.49s legal_only=V/5.9s
+[llama31_8b_T07] r5 S7 full=-/14.57s legal_only=-/4.77s
+[llama31_8b_T07] r5 S8 full=V/16.34s legal_only=V/4.89s
+[llama31_8b_T07] r5 S9 full=V/17.15s legal_only=V/4.64s
+[llama31_8b_T07] r5 S10 full=V/17.09s legal_only=V/4.67s
+[llama31_8b_T07] r5 S11 full=V/16.57s legal_only=V/5.07s
+[llama31_8b_T07] r5 S12 full=V/16.92s legal_only=V/5.0s
+[llama31_8b_T07] r5 S13 full=V/23.75s legal_only=-/3.97s
+[llama31_8b_T07] r5 S14 full=V/16.98s legal_only=V/5.58s
+[llama31_8b_T07] repeat 5 saved results/v2/llama31_8b_T07_r5.json correct={'full': 12, 'legal_only': 13}
